@@ -899,3 +899,18 @@ section.lazy-placeholder:after {
 .cid-rZyZRNxcZX {
   background-color: #073b4c;
 }
+.cid-rZzmedK1ar {
+  background-color: #073b4c;
+}
+.cid-rZzmjopsmD {
+  background: #ffffff;
+}
+.cid-rZzmjopsmD .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-rZzmjopsmD .video-block {
+    width: 100% !important;
+  }
+}
