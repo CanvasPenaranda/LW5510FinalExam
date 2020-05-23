@@ -902,6 +902,11 @@ section.lazy-placeholder:after {
 .cid-rZzmedK1ar {
   background-color: #073b4c;
 }
+.cid-rZN9GDHwQC {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #232323;
+}
 .cid-rZzmjopsmD {
   background: #ffffff;
 }
@@ -911,6 +916,23 @@ section.lazy-placeholder:after {
 }
 @media (max-width: 768px) {
   .cid-rZzmjopsmD .video-block {
+    width: 100% !important;
+  }
+}
+.cid-rZN9JF19rp {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #232323;
+}
+.cid-rZN9cZWRzO {
+  background: #ffffff;
+}
+.cid-rZN9cZWRzO .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-rZN9cZWRzO .video-block {
     width: 100% !important;
   }
 }
