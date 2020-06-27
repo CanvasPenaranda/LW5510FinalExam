@@ -1085,3 +1085,27 @@ section.lazy-placeholder:after {
 .cid-rZyTSAS7Ji {
   background-color: #232323;
 }
+.cid-s38sv2YjWG {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #232323;
+}
+.cid-s38sv2YjWG .line {
+  background-color: #efefef;
+  color: #efefef;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-s38sv2YjWG .section-text {
+  padding: 2rem 0;
+  color: #ffffff;
+}
+.cid-s38sv2YjWG .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-s38sv2YjWG .inner-container {
+    width: 100% !important;
+  }
+}
