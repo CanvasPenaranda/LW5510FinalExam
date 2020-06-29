@@ -980,6 +980,51 @@ section.lazy-placeholder:after {
   color: #ffffff;
   text-align: center;
 }
+.cid-s3fPn3TiWz {
+  padding-top: 15px;
+  padding-bottom: 30px;
+  background-color: #232323;
+}
+.cid-s3fPn3TiWz .card-img {
+  background-color: #fff;
+}
+.cid-s3fPn3TiWz .card-box {
+  padding: 2rem;
+  background-color: #465052;
+}
+.cid-s3fPn3TiWz h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-s3fPn3TiWz p {
+  text-align: left;
+}
+.cid-s3fPn3TiWz .mbr-text {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-s3fPn3TiWz .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-s3fPn3TiWz .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+@media (min-width: 992px) {
+  .cid-s3fPn3TiWz .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+    -webkit-flex: 0 0 20%;
+  }
+}
+.cid-s3fPn3TiWz .card-title {
+  color: #ffffff;
+  text-align: center;
+}
 .cid-s2NL1jGzao {
   background: #232323;
   padding-top: 120px;
@@ -1205,6 +1250,63 @@ section.lazy-placeholder:after {
 }
 @media (max-width: 768px) {
   .cid-s38IR5Yv2l .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-s3fQeOzQCO {
+  background: #232323;
+  padding-top: 120px;
+  padding-bottom: 0px;
+}
+.cid-s3fQeOzQCO .image-block {
+  margin: auto;
+}
+.cid-s3fQeOzQCO figcaption {
+  position: relative;
+}
+.cid-s3fQeOzQCO figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-s3fQeOzQCO .image-block {
+    width: 100% !important;
+  }
+}
+.cid-s3fQhVLGAB {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #232323;
+}
+.cid-s3fQhVLGAB .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-s3fQhVLGAB H2 {
+  color: #ffffff;
+}
+.cid-s3fQiKaQJU {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #232323;
+}
+.cid-s3fQiKaQJU .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-s3fQiKaQJU .section-text {
+  padding: 2rem 0;
+  color: #ffffff;
+  text-align: left;
+}
+.cid-s3fQiKaQJU .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-s3fQiKaQJU .inner-container {
     width: 100% !important;
   }
 }
